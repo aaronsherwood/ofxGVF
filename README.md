@@ -1,7 +1,9 @@
 ofxGVF
 ===
 
-This is an openFrameworks only version of [https://github.com/bcaramiaux/ofxGVF](https://github.com/bcaramiaux/ofxGVF). There is an example that will work with mouse input, or will send and receive OSC.
+This is an openFrameworks only version of [https://github.com/bcaramiaux/ofxGVF](https://github.com/bcaramiaux/ofxGVF). There is an example that will work with mouse input, or will send and receive OSC. 
+
+Works with oF 0.10.1
 
 ===
 
